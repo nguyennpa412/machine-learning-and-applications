@@ -7,3 +7,4 @@
 - 3-class Classification
 ## SVM
 - 2-class - Linear Separability
+- 2-class - Linear None-Separability
