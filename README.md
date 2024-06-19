@@ -1,3 +1,5 @@
+# Machine Learning and Applications
+
 ## I. Reproducing ML algorithms from scratch
 1. [Regression](./ML%20from%20scratch/1%20-%20Regression/)
 2. [Classification](./ML%20from%20scratch/2%20-%20Classification)
